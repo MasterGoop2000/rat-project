@@ -2,6 +2,8 @@
 
 main.cpp is tar6.7B, I just don't know how to change file names in GitHub. 
 
+Please note that some functions use indirect syscalls that were generated with SysWhispers3, so you may need to generate if you want to test. 
+
 NOTE: test server is used for the following projects: 
 - theprogramwaspromisedtotar2daysago (and it really was)
 - tar2.0
