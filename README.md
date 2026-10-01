@@ -1,5 +1,7 @@
 # rat-project
 
+REVIEWER: THE STARDANCE THINg WIPED THE AI PART OF THE THING AND I CANT CHANGE IT PLEASE DONT I USED AI ON tar6.7 and OTHER PROJECTS PLEAES
+
 main.cpp is tar6.7B, I just don't know how to change file names in GitHub. 
 
 Please note that some functions use indirect syscalls that were generated with SysWhispers3, so you may need to generate if you want to test. 
